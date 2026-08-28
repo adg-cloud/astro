@@ -915,11 +915,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5210/default_primary.mpd
 
 #EXTINF:-1 tvg-id="820.astro" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORT1.png",820 beIN SPORTS Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/beinsports1my.m3u8
+https://183.bozztv.com/giatv/giatv-fake/beinsports1my/chunks.m3u8
 
 #EXTINF:-1 tvg-id="821.astro" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",821 beIN SPORTS 2 Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://object.us-east-1.rumble.cloud/198d91efd71a4098b34a9dd2887b8692:test/beinsports2my.m3u8
+https://183.bozztv.com/giatv/giatv-fake/beinsports2my/chunks.m3u8
 
 #EXTINF:-1 tvg-id="822.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="Sports",822 beIN SPORTS 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
