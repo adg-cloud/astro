@@ -1213,13 +1213,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5135/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroFirst" group-title="PPV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroFirst_2024.png",808 Astro First (PPV)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key="76e9be4fab3e5816bce280f6ca3f73d5":"344103b77cc9bcb1b4b5461b3071639c","7026b3c03cb15e7c90bb5d98d2918eea":"66c6f85f004fb9936ed20733e5eae60c","f7839d964c5356be9acc7491cc721860":"f84a6ee22df39731fdaa7b9e5c676dd1"
+#KODIPROP:inputstream.adaptive.license_key=76e9be4fab3e5816bce280f6ca3f73d5:344103b77cc9bcb1b4b5461b3071639c
 ###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/153_HTTP/__op/dash-widevine/__f/manifest.mpd
 
 #EXTINF:-1 tvg-id="AstroFirst" group-title="PPV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroFirst_2024.png",809 Astro First (PPV)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key="a55253dc8ada542f9908892a16165207":"b3271fd768a7650aa651d4a47e353c4f","f6062d0e8cf65e97a567e7395cb0d5d9":"0864c690f302f8ad17a3358d842b0acf","318d2477980651e0aed4ad175955eae9":"c238b596496635e74041b7b7730ad95b"
+#KODIPROP:inputstream.adaptive.license_key=a55253dc8ada542f9908892a16165207:b3271fd768a7650aa651d4a47e353c4f
 ###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/229_HTTP/__op/dash-widevine/__f/manifest.mpd
 
