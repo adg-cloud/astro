@@ -71,7 +71,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 #EXTINF:-1 tvg-id="108.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",108 Astro Citra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163672.ts
+###http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163672.ts
+http://flowutc.com:80/live/61D99YG/ETGL9J5/1052391.m3u8
 
 #EXTINF:-1 tvg-id="109.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",109 Astro Ria Feed 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -108,11 +109,13 @@ https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channe
 
 #EXTINF:-1 tvg-id="112.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania_2024.png",112 Astro Rania
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163686.ts
+###http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163686.ts
+http://flowutc.com:80/live/61D99YG/ETGL9J5/1052406.m3u8
 
 #EXTINF:-1 tvg-id="113.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura_2024.png",113 Astro Aura
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163662.ts
+###http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163662.ts
+http://flowutc.com:80/live/61D99YG/ETGL9J5/1052380.m3u8
 
 #EXTINF:-1 tvg-id="114.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",114 TV Alhijrah
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -655,8 +658,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 ###KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 ###https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
-###https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=ceria
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163671.ts
+###http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163671.ts
+http://flowutc.com:80/live/61D99YG/ETGL9J5/1052390.m3u8
 
 #EXTINF:-1 tvg-id="613.astro" group-title="Kids" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCeria_2024.png",613 Astro Ceria Feed 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -914,7 +917,8 @@ https://load.ptv2026.com/dash3.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 
 #EXTINF:-1 tvg-id="812.astro" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",812 Astro Premier League 2 Feed 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1775976.ts
+###http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1775976.ts
+http://flowutc.com:80/live/61D99YG/ETGL9J5/955663.m3u8
   
 #EXTINF:-1 tvg-id="813.astro" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague3_2024.png",813 Astro Premier League 3 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -969,11 +973,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5210/default_primary.mpd
 
 #EXTINF:-1 tvg-id="820.astro" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",820 beIN SPORTS Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163717.ts
+###http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163717.ts
+http://flowutc.com:80/live/61D99YG/ETGL9J5/1052432.m3u8
 
 #EXTINF:-1 tvg-id="821.astro" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",821 beIN SPORTS 2 Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1965355.ts
+###http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1965355.ts
+http://flowutc.com:80/live/61D99YG/ETGL9J5/1052426.m3u8
 
 #EXTINF:-1 tvg-id="822.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="Sports",822 beIN SPORTS 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
