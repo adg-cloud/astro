@@ -978,8 +978,8 @@ http://bestiptvgo.net:80/live/2E3LJPJ/WNSMMKF/1052432.m3u8
 
 #EXTINF:-1 tvg-id="821.astro" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",821 beIN SPORTS 2 Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-###http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1965355.m3u8
-http://bestiptvgo.net:80/live/2E3LJPJ/WNSMMKF/1052426.m3u8
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1965355.m3u8
+###http://bestiptvgo.net:80/live/2E3LJPJ/WNSMMKF/1052426.m3u8
 
 #EXTINF:-1 tvg-id="822.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="Sports",822 beIN SPORTS 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
