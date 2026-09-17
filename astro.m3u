@@ -1398,31 +1398,31 @@ https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.m
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
 
-#EXTINF:-1 tvg-id="PPV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ASG26.png" group-title="Sports",795 ASG1
+#EXTINF:-1 tvg-id="PPV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ASG26.png" group-title="PPV",795 ASG1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xfPVJhNaopXSkPdu5st0eQ","kid":"PmKEwhI3Bu3vxZuwwFSOEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5601/default_primary.mpd
 
-#EXTINF:-1 tvg-id="PPV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ASG26.png" group-title="Sports",796 ASG2
+#EXTINF:-1 tvg-id="PPV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ASG26.png" group-title="PPV",796 ASG2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UqXH_srQVY4JSQP9yLfNdw","kid":"M5y-1tv0_vgaGdkWj-t5EA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5602/default_primary.mpd
 
-#EXTINF:-1 tvg-id="PPV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ASG26.png" group-title="Sports",797 ASG3
+#EXTINF:-1 tvg-id="PPV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ASG26.png" group-title="PPV",797 ASG3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6-rhoMYyRh75nRkSLpQI5Q","kid":"UAsxk5KUDBh7qTKmmHgHEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5603/default_primary.mpd
 
-#EXTINF:-1 tvg-id="PPV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ASG26.png" group-title="Sports",798 ASG4
+#EXTINF:-1 tvg-id="PPV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ASG26.png" group-title="PPV",798 ASG4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"geEqtMe7JbLZ9YSceUN53g","kid":"nEiVJjMQrCvaqcz_G2VFEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5604/default_primary.mpd
 
-#EXTINF:-1 tvg-id="PPV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ASG26.png" group-title="Sports",799 ASG5
+#EXTINF:-1 tvg-id="PPV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ASG26.png" group-title="PPV",799 ASG5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1pIiv3s4extyo1jguNtUAg","kid":"GWMrY89mjeAbd97W16mvEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
