@@ -58,8 +58,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-###https://linears2-playback.astro.com.my/vsg/41YhDrBY4PBwmIf5JqkSBSTO7Fb8lH14svrCxgO2J6clM=9bcJ/dash-wv/jitp-linearwm/1004/default_primary.mpd
-https://linears2-playback.astro.com.my/vsg/41YhDrBY4PBwmIf5JqkSBSTJDkXi5GMOYKvTT9LMc_nxg=_c-1/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://mvts.live/zes-ria
+###https://linears2-playback.astro.com.my/vsg/41YhDrBY4PBwmIf5JqkSBSTJDkXi5GMOYKvTT9LMc_nxg=_c-1/dash-wv/jitp-linearwm/1004/default_primary.mpd
 ###https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-id="104.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria Feed 2
@@ -70,8 +70,8 @@ http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1920381.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-###https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41Q47TiWqQf-MKTNRyFiKVkl7Sm52QS8oh3DUfxvVhTow=71YI/dash-wv/jitp-dashisowm/1000/default_primary.mpd
-https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41Q47TiWqQf-MKTNRyFiKVktpA7CBBYCLOeww0GdShuJ8=m2AC/dash-wv/jitp-dashisowm/1000/default_primary.mpd
+https://mvts.live/zes-prima
+###https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41Q47TiWqQf-MKTNRyFiKVktpA7CBBYCLOeww0GdShuJ8=m2AC/dash-wv/jitp-dashisowm/1000/default_primary.mpd
 ###https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
 #EXTINF:-1 tvg-id="105.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",105 Astro Prima Feed 2 
