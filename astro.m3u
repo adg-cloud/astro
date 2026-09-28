@@ -1022,26 +1022,28 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5210/default_primary.mpd
 ###https://linearjitp-playback.astro.com.my/dash-wv/linear/5187/default_primary.mpd
 
 #EXTINF:-1 tvg-id="820.astro" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",820 beIN SPORTS 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 ###https://linears2-playback.astro.com.my/vsg/41RzlfyNlv70__ShdhqI6nyzhtmZG78UrI2hHyHmxx8C4=RtOg/dash-wv/jitp-linearwm/408/default_primary.mpd
 ###https://linears2-playback.astro.com.my/vsg/41RzlfyNlv70__ShdhqI6ny-uFPYctPvKGdiO8al98r9Q=qmon/dash-wv/jitp-linearwm/408/default_primary.mpd
 https://mvts.live/zes-bein1
-###https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
 
 #EXTINF:-1 tvg-id="820.astro" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",820 beIN SPORTS Feed 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163717.m3u8
 
 #EXTINF:-1 tvg-id="821.astro" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",821 beIN SPORTS 2 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 ###https://linears2-playback.astro.com.my/vsg/41181DXn8LK0ABYk-9vGnrczpa5s86CRCA-_3ve_6lLJE=Ywz8/dash-wv/jitp-linearwm/5066/default_primary.mpd
 ###https://linears2-playback.astro.com.my/vsg/41181DXn8LK0ABYk-9vGnrc20AQ28APqzuAHKtK32EUjs=5tCd/dash-wv/jitp-linearwm/5066/default_primary.mpd
 https://mvts.live/zes-bein2
-###https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
 
 #EXTINF:-1 tvg-id="821.astro" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",821 beIN SPORTS 2 Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
