@@ -696,10 +696,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41vJzke50w-tUCTvwj1gLbZ_tay1SaKOrduiCxtOjWbGw=NLiB/dash-wv/jitp-linearwm/2606/default_primary.mpd
+###https://linears2-playback.astro.com.my/vsg/41vJzke50w-tUCTvwj1gLbZ_tay1SaKOrduiCxtOjWbGw=NLiB/dash-wv/jitp-linearwm/2606/default_primary.mpd
 ###https://linears2-playback.astro.com.my/vsg/41vJzke50w-tUCTvwj1gLbZ4Y1md-JPnxYbSBLV6y5Suc=9Q4y/dash-wv/jitp-linearwm/2606/default_primary.mpd
 ###https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=ceria
-###https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
+https://mvts.live/zes-ceria
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 
 #EXTINF:-1 tvg-id="611.astro" group-title="Kids" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCeria_2024.png",612 Astro Ceria Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -1087,7 +1088,7 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
 
-#EXTINF:-1 tvg-id="827.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="Sports",827 Astro Grandstand Feed 3
+#EXTINF:-1 tvg-id="827.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="Sports",827 Astro Grandstand Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 ###http://45.139.122.199:2095/play/live.php?mac=00:1A:79:CD:2B:8A&stream=1841541&extension=ts&play_token=vWiIyMnccX
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1775977.m3u8
