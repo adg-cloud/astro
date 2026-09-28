@@ -55,13 +55,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
 #EXTINF:-1 tvg-id="104.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+###KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://mvts.live/zes-ria
 ###https://linears2-playback.astro.com.my/vsg/41YhDrBY4PBwmIf5JqkSBSTJDkXi5GMOYKvTT9LMc_nxg=_c-1/dash-wv/jitp-linearwm/1004/default_primary.mpd
-###https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-id="104.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
