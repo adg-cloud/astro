@@ -861,7 +861,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 ###https://2da559d4c1d24884a735abbc512e6181.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH24-dash/vsg/41U_H0xdxE2v7sEaKBUpdK4xWM0bsQhNSarriyK75I7UY=ilCv/dash-wv/jitp-dashisowm/5099/default_primary.mpd
 https://bozzku.xyz/victus/5402/AstArenaBola1.mpd
 ###https://load.ptv2026.com/dash3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arenabola1
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5099/default_primary.mpd
+###https://linearjitp-playback.astro.com.my/dash-wv/linear/5099/default_primary.mpd
 
 ###EXTINF:-1 tvg-id="804.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png" group-title="Sports",804 Astro Arena Bola 2
 ###KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -880,7 +880,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5099/default_primary.mpd
 ###https://linears2-playback.astro.com.my/vsg/41dEH5yxfvvQUkWGfrHzoMuassB2xzcQOCYfMupLqQATU=WMa8/dash-wv/jitp-linearwm/5100/default_primary.mpd
 https://bozzku.xyz/victus/5570/AstArenaBola2.mpd
 ###https://load.ptv2026.com/dash3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arenabola2
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5100/default_primary.mpd
+###https://linearjitp-playback.astro.com.my/dash-wv/linear/5100/default_primary.mpd
 
 #EXTINF:-1 tvg-id="805.astro" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsUHD_2024.png",805 Astro Sports UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -953,7 +953,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
 ###https://load.ptv2026.com/dash3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl1
 https://bozzku.xyz/victus/4996/AstPremierLeague1.mpd
 ###https://load.ptv2026.com/dash3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl1
-https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
+###https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
 #EXTINF:-1 tvg-id="812.astro" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",812 Astro Premier League 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -962,7 +962,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 ###https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH27-dash/vsg/41syRtykKLO7mP1DjFqHDmUoduO_d-nTiScdNo--gKR_g=Ig82/dash-wv/jitp-dashisowm/2104/default_primary.mpd
 https://bozzku.xyz/victus/4997/AstPremierLeague2.mpd
 ###https://load.ptv2026.com/dash3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl2
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
+###https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
 
 #EXTINF:-1 tvg-id="812.astro" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",812 Astro Premier League 2 Feed 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
