@@ -1,4 +1,5 @@
- #EXTM3U
+
+#EXTM3U
 
 ###EXTINF:-1 tvg-id="100.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Xilele.png",100 XiLele
 ###KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -974,6 +975,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://bozzku.xyz/victus/4997/AstPremierLeague2.mpd
+https://live.aqfadtv.xyz/premierleague2/index.mpd
 ###https://load.ptv2026.com/dash3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
 
@@ -1347,9 +1349,9 @@ https://cache3.zapitv.com/live/eds_c2/STAR_CHANNEL/dash_live_ez/STAR_CHANNEL.mpd
 
 #EXTINF:-1 tvg-id="AstroFirst" group-title="PPV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroFirst_2024.png",809 Astro First (PPV)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
+#KODIPROP:inputstream.adaptive.license_key=2fb47db202644f4587bcb9712e0f3199:77ecc1496b594331990c2fb1cb687eba
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/521/521.mpd
 
 #EXTINF:-1 tvg-id="AstroFirst" group-title="PPV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroFirst_2024.png",810 Astro First (PPV)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
