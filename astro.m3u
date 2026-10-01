@@ -64,8 +64,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-id="104.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-###http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1920381.m3u8
-http://iptv12k.com:35461/m260807923420398/111111/13636
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1920381.m3u8
 
 #EXTINF:-1 tvg-id="105.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",105 Astro Prima 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
