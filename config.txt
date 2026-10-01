@@ -1,0 +1,29 @@
+To stream all CONVERGE channels.
+
+Paste this browser URL below in your browser's address bar:
+
+For Google Chrome:
+chrome://flags/#unsafely-treat-insecure-origin-as-secure
+
+For Microsoft Edge:
+edge://flags/#unsafely-treat-insecure-origin-as-secure
+
+- Set "Insecure origins treated as secure" to Enabled.
+- Paste this Direct IP URL's in textarea:
+
+http://136.239.158.10:6610,http://136.239.159.20:6610,http://136.239.173.10:6610,http://136.239.158.18:6610,http://136.239.173.26:6610,http://136.239.173.2:6610,http://136.239.158.30:6610,http://136.239.159.18:6610,http://136.158.97.2:6610,http://136.239.173.3:6610,http://136.239.158.10:6610
+
+- Click Relaunch/Restart at the bottom-right corner (It will relaunch your browser)
+- Refresh the page and try to load any CONVERGE channels
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+Note: If it still doesn't works, Please clear your browser's cache and try again.
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+Feedback if it works.
+Thanks.
+
+Sincerely yours,
+Toobee
