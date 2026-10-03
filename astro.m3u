@@ -1389,7 +1389,8 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/101/101.mpd
 
 #EXTINF:-1 tvg-id="AstroFirst" group-title="PPV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroFirst_2024.png",815 Astro First (PPV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-http://103.155.18.184:8000/play/a0ab/index.m3u8
+###http://103.155.18.184:8000/play/a0ab/index.m3u8
+https://play-drm.aliiptv.com/live/CelestialClassicMovies.m3u8?verify=1790055522-pTpExCWEFJ2c05UbpuoUQt3v6ZsrOpUUOJYT-4h2DDA
 
 #EXTINF:-1 tvg-id="901.astro" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/Astro_Malaysia_%282024%29.svg/revision/latest?cb=20241209082527",901 Lifestyle
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
