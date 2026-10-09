@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTM3U url-tvg="https://github.com/v-epg/as-epg/raw/main/astro_epg.xml
+
 ###EXTINF:-1 tvg-id="100.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Xilele.png",100 XiLele
 ###KODIPROP:inputstream.adaptive.license_type=clearkey
 ###KODIPROP:inputstream.adaptive.license_key=58ce03fd70bac9f61eadf9d762ce8e10:9b27d4fac3292cf7cfca3312cb409343
