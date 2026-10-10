@@ -889,7 +889,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5099/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://bozzku.xyz/victus/5402/AstArenaBola1.mpd
 https://load.ptv2026.com/dash3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arenabola1
-
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5099/default_primary.mpd
 
 ###EXTINF:-1 tvg-id="804.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png" group-title="Sports",804 Astro Arena Bola 2
 ###KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -916,6 +916,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5100/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://bozzku.xyz/victus/5570/AstArenaBola2.mpd
 https://load.ptv2026.com/dash3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arenabola2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5100/default_primary.mpd
 
 #EXTINF:-1 tvg-id="805.astro" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsUHD_2024.png",805 Astro Sports UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -1103,7 +1104,6 @@ http://iptv12k.com:35461/m260807923420398/111111/4800
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41YeMzvE5O5Sarer1cqBXgXBD3KBbe6rgy-H69aZ2c83g=AgX0/dash-wv/jitp-linearwm/5066/default_primary.mpd
 ###https://mvts.live/zes-bein2
 https://linears2-playback.astro.com.my/vsg/41YeMzvE5O5Sarer1cqBXgXOwYPKrbi5Gfb91Z0q7o0Aw=1L1O/dash-wv/jitp-linearwm/5066/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
