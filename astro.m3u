@@ -1128,7 +1128,7 @@ http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1965355.m3u8
 #EXTVLCOPT:avcodec-hw=any
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/288372.m3u8
+http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/288372.ts
 
 #EXTINF:-1 tvg-id="astro313" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="Sports",822 beIN SPORTS 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
