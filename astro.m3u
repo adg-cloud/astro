@@ -710,11 +710,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5119/default_primary.mpd
 
-###EXTINF:-1 tvg-id="514.astro" group-title="News & Documentary" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sky_News_HD_v1.png",514 Sky News HD
-###KODIPROP:inputstream.adaptive.license_type=clearkey
-###KODIPROP:inputstream.adaptive.license_key=4bef7fc1bcb6bd7f287def940e38cb10:b0dadd74b713e4b29fd27e147cae7133
-###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-###https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_primary.mpd
+#EXTINF:-1 tvg-id="514.astro" group-title="News & Documentary" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sky_News_HD_v1.png",514 Sky News HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://iptv12k.com:35461/m260807962950028/111111/13447
 
 ###EXTINF:-1 tvg-id="551.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png" group-title="News & Documentary",551 Global Trekker
 ###KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -862,7 +860,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://play-drm.aliiptv.com/live/warnertv.m3u8?verify=1790056290-4w7vbzmuwXKZyBBGiSOJERiRrXvWX5rqEGe_H61vbuQ
 
-#EXTINF:-1 tvg-id="716.astro" group-title="Variety" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DMAX_v1.png",716 DMAX
+#EXTINF:-1 tvg-id="716.astro" group-title="Variety" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DMAX_v1.png",717 DMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 http://iptv12k.com:35461/m260807962950028/111111/13539
 
