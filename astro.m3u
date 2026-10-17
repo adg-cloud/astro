@@ -107,7 +107,7 @@ http://iptv12k.com:35461/m260807923420398/111111/13610
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41CD1vVad00ijGR5JcU6t8k1ZURNRimjBfWugLHrtz0HU=i0DN/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41CD1vVad00ijGR5JcU6t8k0tjDRAk_Lxxy-k3sK6FmBk=B82a/dash-wv/jitp-linearwm/1004/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astro316" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",110 Astro Prima Feed 3
@@ -115,7 +115,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/418roZ9Lems5qCKdepdqGq-65JyBlD8lIuNEfcJ2JtJaU=gDo3/dash-wv/jitp-linearwm/1000/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/418roZ9Lems5qCKdepdqGq-0xgQN1TUjIowKVWbsC084Q=zsny/dash-wv/jitp-linearwm/1000/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
 
@@ -124,8 +124,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-###https://linears2-playback.astro.com.my/vsg/418roZ9Lems5qCKdepdqGq-65JyBlD8lIuNEfcJ2JtJaU=gDo3/dash-wv/jitp-linearwm/1000/default_primary.mpd
-###https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/418roZ9Lems5qCKdepdqGq-0xgQN1TUjIowKVWbsC084Q=zsny/dash-wv/jitp-linearwm/1000/default_primary.mpd
 https://mt02.aa.astro.com.my/default_ott.mpd
 
 
@@ -347,7 +346,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=89de71cf39be0946dec828edff84d010:9d5e036094bb77cbaf8867d3272c66d0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41-GEI70v2ZE_b8vnw8Yh0AftokOfuqPSGf3IaOpnHDM4=h8JO/dash-wv/jitp-linearwm/2507/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41-GEI70v2ZE_b8vnw8Yh0AQoeuliUogd8wbOCzfGmuK0=FvmW/dash-wv/jitp-linearwm/2507/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astro158" group-title="Chinese" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroQJ_2024.png",308 Astro QJ Feed 2
@@ -1003,7 +1002,7 @@ http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1775977.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41xGxvpztsrVTdnmYy7KD93yYU_wakYtmqEX987-LP-vs=ddgq/dash-wv/jitp-linearwm/601/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41xGxvpztsrVTdnmYy7KD932EYdcz3n4orAh-5kA4Kfs8=hgP6/dash-wv/jitp-linearwm/601/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astro536" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",811 Astro Premier League Feed 2
@@ -1027,7 +1026,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41Zl7dagsFeoRVv4fPKdwe5onQnsmKd3-2G3t_XJQihg8=C8Wa/dash-wv/jitp-linearwm/2104/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41Zl7dagsFeoRVv4fPKdwe5h0_uj4X35vkO97mUWaoq3M=2inL/dash-wv/jitp-linearwm/2104/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astro537" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",812 Astro Premier League 2 Feed 2
@@ -1120,7 +1119,7 @@ http://iptv12k.com:35461/m260807923420398/111111/4800
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 ###https://mvts.live/zes-bein2
-https://linears2-playback.astro.com.my/vsg/41Yhn5w_yG43kSHmAuycOxBQ14GJMVWRrkRJSPg8WRcY0=Q1IQ/dash-wv/jitp-linearwm/5066/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41Yhn5w_yG43kSHmAuycOxBXKg6nJ7Q4lms8F-73Zkix8=u3bP/dash-wv/jitp-linearwm/5066/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astro466" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",821 beIN SPORTS 2 Feed 2
