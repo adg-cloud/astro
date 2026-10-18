@@ -173,12 +173,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astro400" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura_2024.png",113 Astro Aura Feed 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:deinterlace=1
-#EXTVLCOPT:deinterlace-mode=yadif
-#EXTVLCOPT:avcodec-hw=any
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
 http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163662.m3u8
 
 #EXTINF:-1 tvg-id="astro400" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura_2024.png",113 Astro Aura Feed 3
@@ -912,7 +906,6 @@ https://livebytsctbu.vtvprime.vn/mean/MUSICBOX/manifest.mpd
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 
 #EXTINF:-1 tvg-id="Warner" group-title="Variety" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png",712 Warner TV
-####EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 ###https://play-drm.aliiptv.com/live/warnertv.m3u8?verify=1790056290-4w7vbzmuwXKZyBBGiSOJERiRrXvWX5rqEGe_H61vbuQ
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
