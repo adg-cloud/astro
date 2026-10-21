@@ -1307,7 +1307,8 @@ http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1775975.ts
 #EXTVLCOPT:avcodec-hw=any
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163886.ts
+###http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163886.ts
+http://bestiptvgo.net:80/live/2E3LJPJ/WNSMMKF/1052592.m3u8
 
 #EXTINF:-1 tvg-id="SPOTV2" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",829 SPOTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -1317,7 +1318,8 @@ http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163886.ts
 #EXTVLCOPT:avcodec-hw=any
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163884.ts
+###http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163884.ts
+http://bestiptvgo.net:80/live/2E3LJPJ/WNSMMKF/957706.m3u8
 
 #EXTINF:-1 tvg-id="EUROSPORTHD" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Eurosport.png",830 EUROSPORT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
