@@ -36,10 +36,10 @@ http://roch.ph/bongao/bongao/75.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3dSjHDm/hbo-hits-png-(132-99).png",HBO HITS
 http://roch.ph/bongao/bongao/76.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png",HBO SIGNATURE
+#EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png",BEIN SPORTS XTRA
 http://roch.ph/bongao/bongao/77.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PfMF5vhb/ezgif-767c5df2b247daf5.png",HBO FAMILY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PfMF5vhb/ezgif-767c5df2b247daf5.png",NCAA NXT
 http://roch.ph/bongao/bongao/78.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png",CINEMAX
@@ -48,7 +48,7 @@ http://roch.ph/bongao/bongao/81.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/ww/warner-tv-us.png",WARNER BROS.TV
 http://roch.ph/bongao/bongao/79.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsPG5WwQ/ezgif-2efda399fa40c491.png",DREAMWORKS TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsPG5WwQ/ezgif-2efda399fa40c491.png",DREAMWORKS TV Tagalog
 http://roch.ph/bongao/bongao/80.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4FKq7k2/ezgif-795f40ef9ac6e3.png",BBC EARTH
@@ -154,7 +154,7 @@ http://roch.ph/bongao/bongao/36.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/aa/a2z-ph.png",A2Z
 http://roch.ph/bongao/bongao/38.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/jj/jeepney-tv-ph.png",JEEPNEY TV
+#EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/jj/jeepney-tv-ph.png",GTV
 http://roch.ph/bongao/bongao/39.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/aa/alltv-2-ph.png",ALLTV 2
@@ -187,7 +187,7 @@ http://roch.ph/bongao/bongao/155.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/nn/net-25-ph.png",NET 25
 http://roch.ph/bongao/bongao/156.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/oo/oras-ng-himala-ph.png",ORAS NG HIMALA
+#EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/oo/oras-ng-himala-ph.png",GOOD TV
 http://roch.ph/bongao/bongao/157.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/ii/inc_tv_ph.png",INC TV
@@ -217,7 +217,7 @@ http://roch.ph/bongao/bongao/121.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wb54PX5w/studio-universal-global-png-(132-99).png",STUDIO UNIVERSAL
 http://roch.ph/bongao/bongao/5498.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/ff/fox_news_channel.png",FOX NEWS CHANNEL
+#EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/ff/fox_news_channel.png",FOX NEWS NOW
 http://roch.ph/bongao/bongao/58.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lyngsat.com/logo/tv/rr/red-bul-tv-at.png",REDBULL TV
