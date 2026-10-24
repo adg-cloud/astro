@@ -1217,13 +1217,7 @@ http://bestiptvgo.net:80/live/2E3LJPJ/WNSMMKF/78138.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 http://iptv12k.com:35461/m260807962950028/111111/961
 
-#EXTINF:-1 tvg-id="beINSports2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="Sports",821 beIN SPORTS 2 Feed 5
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XQ9Ei1KpIDXjdjxKYCdZMw","kid":"76b/Gs76QwSOi3rcIdmIcQ"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://mvts.live/zes-bein2
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Bein2)/master.mpd
+
 
 #EXTINF:-1 tvg-id="astro313" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="Sports",822 beIN SPORTS 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1309,8 +1303,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
 #EXTVLCOPT:avcodec-hw=any
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
-http://4kgood.org:80/live/02928783542314069898/e7ur9j3aha/1163984.ts
-###http://4kgood.org:80/live/Ayouragadi_988033/wsyxICxa/1163984.m3u8
+####http://4kgood.org:80/live/02928783542314069898/e7ur9j3aha/1163984.ts
+http://4kgood.org:80/live/Ayouragadi_988033/wsyxICxa/1163984.m3u8
 
 #EXTINF:-1 tvg-id="SPOTV" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",828 SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
