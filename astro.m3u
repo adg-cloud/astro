@@ -115,7 +115,7 @@ http://bestiptvgo.net:80/live/2E3LJPJ/WNSMMKF/1052391.m3u8
 
 #EXTINF:-1 tvg-id="astro301" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",108 Astro Citra Feed 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-http://iptv12k.com:35461/m260807923420398/111111/13610
+http://sharkiptvpro.xyz/live/gs72cd991v3/bd75veo92b3/749397.m3u8
 
 #EXTINF:-1 tvg-id="astro193" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",109 Astro Ria Feed 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -182,7 +182,8 @@ http://bestiptvgo.net:80/live/2E3LJPJ/WNSMMKF/1052380.m3u8
 
 #EXTINF:-1 tvg-id="astro400" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura_2024.png",113 Astro Aura Feed 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-http://4kgood.org:80/live/Ayouragadi_988033/wsyxICxa/1163662.m3u8
+http://sharkiptvpro.xyz/live/gs72cd991v3/bd75veo92b3/749400.m3u8
+###http://4kgood.org:80/live/Ayouragadi_988033/wsyxICxa/1163662.m3u8
 
 #EXTINF:-1 tvg-id="astro149" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",114 TV Alhijrah
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1041,7 +1042,7 @@ http://tv.cloudcdn.me/live.ts?channelId=93741&uid=10223&deviceMac=00:1A:79:07:07
 #EXTVLCOPT:avcodec-hw=any
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
-http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1775977.m3u8
+http://sharkiptvpro.xyz/live/gs72cd991v3/bd75veo92b3/749385.m3u8
 
 #EXTINF:-1 tvg-id="astro536" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",811 Astro Premier League 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
