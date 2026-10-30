@@ -1068,7 +1068,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 #EXTVLCOPT:deinterlace-mode=yadif
 #EXTVLCOPT:avcodec-hw=any
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=tru
+#EXTVLCOPT:http-continuous=true
 http://46.38.157.60:19890/trams/2820/playlist.m3u8?token=passwd
 
 #EXTINF:-1 tvg-id="astro536" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",811 Astro Premier League Feed 3
