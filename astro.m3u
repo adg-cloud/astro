@@ -329,7 +329,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.aqfadtv.xyz/?username=HishamKamarul&channelid=5609
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5609/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5611/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astro357" group-title="Indian" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Star_Vijay_v1.png",221 Star Vijay HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
