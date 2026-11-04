@@ -207,7 +207,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 #EXTVLCOPT:avcodec-hw=any
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
-http://bestiptvgo.net:80/live/2E3LJPJ/WNSMMKF/1052380.m3u8
+###http://bestiptvgo.net:80/live/2E3LJPJ/WNSMMKF/1052380.m3u8
 http://46.38.157.60:19890/trams/2744/playlist.m3u8?token=passwd
 
 #EXTINF:-1 tvg-id="astro400" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura_2024.png",113 Astro Aura Feed 3
@@ -218,7 +218,7 @@ http://46.38.157.60:19890/trams/2744/playlist.m3u8?token=passwd
 #EXTVLCOPT:avcodec-hw=any
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
-http://zooox.top:8080/live/1006712679/4548740918/388737.m3u8
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:37:47:85&stream=1163662&extension=m3u8
 
 #EXTINF:-1 tvg-id="astro149" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",114 TV Alhijrah
 #KODIPROP:inputstream.adaptive.license_type=clearkey
