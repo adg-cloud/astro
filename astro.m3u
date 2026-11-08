@@ -165,7 +165,8 @@ http://bestiptvgo.net:80/live/2E3LJPJ/WNSMMKF/1052391.m3u8
 #EXTVLCOPT:avcodec-hw=any
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
-http://46.38.157.60:19890/trams/2818/playlist.m3u8?token=passwd
+###http://46.38.157.60:19890/trams/2818/playlist.m3u8?token=passwd
+http://iptv12k.com:35461/m260715462111857/111111/20679
 
 #EXTINF:-1 tvg-id="astro301" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png",108 Astro Citra Feed 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
