@@ -883,7 +883,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://abeott.short.gy/Ey4q
+###https://abeott.short.gy/Ey4q
 https://mvts.live/zes-ceria
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 
@@ -1122,8 +1122,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-###https://mvts.live/zes-grandstand
-https://linears2-playback.astro.com.my/vsg/41RhmqusQ1tIN8Au2Lzz80mcpy6UZem9ms24ZhKPR1RDg=NlSz/dash-wv/jitp-linearwm/2701/default_primary.mpd
+https://mvts.live/zes-grandstand
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
 
 #EXTINF:-1 tvg-id="astro543" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="Sports",810 Astro Grandstand Feed 2
@@ -1309,7 +1308,7 @@ https://vidio-bolatv.flyins.my.id/vidplay?id=6299
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://mvts.live/zes-bein2
+##https://mvts.live/zes-bein2
 https://linears2-playback.astro.com.my/vsg/41EjMihv463ohs-AJdrJyJTFHOTsCXqPWa_fHd66KjV6c=zhnp/dash-wv/jitp-linearwm/5066/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
 
@@ -1431,8 +1430,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
 #EXTVLCOPT:avcodec-hw=any
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
-###http://4kgood.org:80/live/02928783542314069898/e7ur9j3aha/1163984.ts
-http://4kgood.org:80/live/Ayouragadi_988033/wsyxICxa/1163984.m3u8
+http://4kgood.org:80/live/02928783542314069898/e7ur9j3aha/1163984.ts
+####http://4kgood.org:80/live/Ayouragadi_988033/wsyxICxa/1163984.m3u8
 
 #EXTINF:-1 tvg-id="SPOTV" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",828 SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
