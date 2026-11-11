@@ -1143,8 +1143,8 @@ http://tv.cloudcdn.me/live.ts?channelId=93741&uid=10223&deviceMac=00:1A:79:07:07
 #EXTVLCOPT:avcodec-hw=any
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
-###http://46.38.157.60:19890/trams/2822/playlist.m3u8?token=passwd
-http://iptv12k.com:35461/m260807962950028/111111/13550
+###http://iptv12k.com:35461/m260807962950028/111111/13550
+http://4kgood.org:80/live/02928783542314069898/e7ur9j3aha/1775977.m3u8
 
 #EXTINF:-1 tvg-id="astro536" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",811 Astro Premier League 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
