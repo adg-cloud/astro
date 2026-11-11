@@ -1162,7 +1162,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 #EXTVLCOPT:avcodec-hw=any
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
-http://46.38.157.60:19890/trams/2820/playlist.m3u8?token=passwd
+###http://46.38.157.60:19890/trams/2820/playlist.m3u8?token=passwd
+http://4kgood.org:80/live/02928783542314069898/e7ur9j3aha/1163684.m3u8
 
 #EXTINF:-1 tvg-id="astro536" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",811 Astro Premier League Feed 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -1172,8 +1173,8 @@ http://46.38.157.60:19890/trams/2820/playlist.m3u8?token=passwd
 #EXTVLCOPT:avcodec-hw=any
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
-###http://4kgood.org:80/live/Ayouragadi_988033/wsyxICxa/1163684.m3u8
-http://iptv12k.com:35461/m260807962950028/111111/13552
+###http://iptv12k.com:35461/m260807962950028/111111/13552
+http://4kgood.org:80/live/02928783542314069898/e7ur9j3aha/1163985.m3u8
 
 #EXTINF:-1 tvg-id="astro536" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",811 Astro Premier League Feed 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1198,8 +1199,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
 #EXTVLCOPT:avcodec-hw=any
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
-###http://4kgood.org:80/live/Ayouragadi_988033/wsyxICxa/1163683.m3u8
-http://46.38.157.60:19890/trams/2821/playlist.m3u8?token=passwd
+###http://46.38.157.60:19890/trams/2821/playlist.m3u8?token=passwd
+http://4kgood.org:80/live/02928783542314069898/e7ur9j3aha/1163986.m3u8
 
 #EXTINF:-1 tvg-id="astro537" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",812 Astro Premier League 2 Feed 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -1288,12 +1289,18 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
 #EXTVLCOPT:avcodec-hw=any
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
-###http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163717.m3u8
-http://bestiptvgo.net:80/live/2E3LJPJ/WNSMMKF/78137.m3u8
+###http://bestiptvgo.net:80/live/2E3LJPJ/WNSMMKF/78137.m3u8
 ###http://46.38.157.60:19890/trams/2825/playlist.m3u8?token=passwd
+http://4kgood.org:80/live/02928783542314069898/e7ur9j3aha/197176.m3u8
 
 #EXTINF:-1 tvg-id="astro236" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",820 beIN SPORTS Feed 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=yadif
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
 http://tv.cloudcdn.me/live.ts?channelId=93748&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-id="astro236" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",820 beIN SPORTS Feed 4
@@ -1329,7 +1336,7 @@ http://bestiptvgo.net:80/live/2E3LJPJ/WNSMMKF/78138.m3u8
 
 #EXTINF:-1 tvg-id="astro466" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",821 beIN SPORTS 2 Feed 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-http://46.38.157.60:19890/trams/2826/playlist.m3u8?token=passwd
+http://4kgood.org:80/live/02928783542314069898/e7ur9j3aha/288372.m3u8
 
 #EXTINF:-1 tvg-id="astro466" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",821 beIN SPORTS 2 Feed 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
