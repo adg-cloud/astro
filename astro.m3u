@@ -84,16 +84,6 @@ http://tv.cloudcdn.me/live.ts?channelId=132152&uid=10223&deviceMac=00:1A:79:07:0
 https://abeott.short.gy/WI1y
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro193" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria Feed 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:deinterlace=1
-#EXTVLCOPT:deinterlace-mode=yadif
-#EXTVLCOPT:avcodec-hw=any
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-continuous=true
-###http://46.38.157.60:19890/trams/2925/playlist.m3u8?token=passwd
-http://iptv12k.com:35461/m260807962950028/111111/13636
 
 #EXTINF:-1 tvg-id="astro316" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",105 Astro Prima 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -906,8 +896,7 @@ http://tv.cloudcdn.me/live.ts?channelId=93762&uid=10223&deviceMac=00:1A:79:07:07
 #EXTVLCOPT:avcodec-hw=any
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
-###http://46.38.157.60:19890/trams/2650/playlist.m3u8?token=passwd
-http://iptv12k.com:35461/m260807962950028/111111/13622
+http://4kgood.org:80/live/moussa2024_692087/i4qwNfPg/1163671.m3u8
 
 #EXTINF:-1 tvg-id="astro371" group-title="Kids" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png",615 Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
