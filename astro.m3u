@@ -1145,7 +1145,7 @@ http://tv.cloudcdn.me/live.ts?channelId=93741&uid=10223&deviceMac=00:1A:79:07:07
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-continuous=true
 ###http://iptv12k.com:35461/m260807962950028/111111/13550
-http://4kgood.org:80/live/02928783542314069898/e7ur9j3aha/1775977.m3u8
+http://4kgood.org:80/live/02928783542314069898/i4qwNfPg/1775977.m3u8
 
 #EXTINF:-1 tvg-id="astro536" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",811 Astro Premier League 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1167,7 +1167,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 http://4kgood.org:80/live/moussa2024_692087/i4qwNfPg/1163684.m3u8
 
 #EXTINF:-1 tvg-id="astro536" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",811 Astro Premier League Feed 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:deinterlace=1
 #EXTVLCOPT:deinterlace-mode=yadif
