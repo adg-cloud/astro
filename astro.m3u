@@ -831,11 +831,15 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5119/default_primary.mpd
 ###http://best-8k.org:80/live/jjyw70ss4w/ek5ui8ithc/1163880.ts
 http://tv.cloudcdn.me/live.ts?channelId=133101&uid=10223&deviceMac=00:1A:79:07:07:43
 
-###EXTINF:-1 tvg-id="551.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png" group-title="News & Documentary",551 Global Trekker
-###KODIPROP:inputstream.adaptive.license_type=clearkey
-###KODIPROP:inputstream.adaptive.license_key=92d34a84fae8e54de0a829629941be10:2fb39ab3f55333d5fa3e830ebf99ec16
-###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-###https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default_primary.mpd
+#EXTINF:-1 tvg-id="551.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png" group-title="News & Documentary",551 Global Trekker
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:deinterlace=1
+#EXTVLCOPT:deinterlace-mode=yadif
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-continuous=true
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+http://tv.cloudcdn.me/live.ts?channelId=133053&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-id="557.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png" group-title="News & Documentary",557 Animal Planet India
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1767,7 +1771,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="AstroFirst" group-title="PPV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroFirst_2024.png",824 Astro First (PPV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-http://qingyi.7766.org:7007/0.ts
+rtmp://f13h.mine.nu/sat/tv701
 
 
 #EXTINF:-1 tvg-id="AstroFirst" group-title="PPV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroFirst_2024.png",825 Astro First (PPV)
