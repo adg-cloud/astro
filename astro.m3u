@@ -1176,7 +1176,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=93739&uid=10223&deviceMac=00:1A:79:07
 #EXTVLCOPT:http-continuous=true
 ###http://iptv12k.com:35461/m260807962950028/111111/13552
 ###http://4kgood.org:80/live/moussa2024_692087/i4qwNfPg/1163685.m3u8
-http://4kgood.org:80/live/02928783542314069898/e7ur9j3aha/1163685.m3u8
+http://4kgood.org:80/live/02928783542314069898/e7ur9j3aha/1163684.m3u8
 
 #EXTINF:-1 tvg-id="astro536" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",811 Astro Premier League Feed 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
